@@ -39,23 +39,23 @@ To run this program, you need to have:
 4. Output
       The program will produce the following output:
    
-**      Array with Index
-      Strawberry
-      ------------
-      Array without Index
-      [Mango, Apple, Strawberry]
-      ------------
-      ArrayList .Add
-      [Mango, Apple, Strawberry, Watermelon]
-      ------------
-      With fruitList.contains
-      false
-      ------------
-      .Remove-"Red"
-      [Green, Yellow, Purple]
-      ------------
-      .Clear-"ArrayList"
-      []**
+         Array with Index
+         Strawberry
+         ------------
+         Array without Index
+         [Mango, Apple, Strawberry]
+         ------------
+         ArrayList .Add
+         [Mango, Apple, Strawberry, Watermelon]
+         ------------
+         With fruitList.contains
+         false
+         ------------
+         .Remove-"Red"
+         [Green, Yellow, Purple]
+         ------------
+         .Clear-"ArrayList"
+         []
 
 
 ## License:
