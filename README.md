@@ -38,7 +38,8 @@ To run this program, you need to have:
 3. Run the program: java ArrayList_Study
 4. Output
       The program will produce the following output:
-      Array with Index
+   
+**      Array with Index
       Strawberry
       ------------
       Array without Index
@@ -54,9 +55,8 @@ To run this program, you need to have:
       [Green, Yellow, Purple]
       ------------
       .Clear-"ArrayList"
-      []
+      []**
 
-===============
 
 ## License:
 
